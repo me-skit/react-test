@@ -16,7 +16,7 @@ function App() {
           </button>
           <h2>Internship 2022</h2>
           <p>This is a short modification to show how changes are deployed to the Vercel server</p>
-          <p>By<code>Manuel Elias Múhun</code></p>
+          <p>By <code>Manuel Elias</code></p>
         </p>
         <p>
           <a
